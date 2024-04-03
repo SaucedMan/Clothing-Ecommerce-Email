@@ -1,0 +1,11 @@
+                <mj-raw>
+                <!--Shipping section-->
+                </mj-raw>
+                <mj-section border="5px solid #333" border-top="none" padding="0" background-color="#FFB84C">
+                    <mj-column>
+                        <mj-text align="center" text-transform="Uppercase" letter-spacing="2px">
+                        <p style="font-weight: 600; font-size: 13px; text-decoration: none; color: #333; margin-bottom: 0px;">Worldwide Free Shipping on orders over $100*</p>
+                        <span style="font-size: 12px; font-style: italic;">*TO QUALIFY ALL ORDERS MUST BE DONE UNTIL MAY 1 11:59PM</span>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>

@@ -1,0 +1,31 @@
+                <mj-raw>
+                <!--Don't miss deal gallery-->
+                </mj-raw>
+                    <mj-section padding="0" background-color="#FFFADD" border="5px solid #333" border-top="none" border-bottom="none">
+                        <mj-column>
+                            <mj-text align="center" text-transform="uppercase" font-family="Noto Sans, sans serif">
+                                <h2 style="font-size: 26px; margin-bottom: 30px; font-weight: 500;">Don't miss this deal</h2>
+                            </mj-text>
+                            <mj-image width="350px" href="https://www.example.com/" src="https://i.postimg.cc/9f7pmGL7/Sunglasses-image.jpg" alt="pairs of sunglasses on a blue table" />
+                            <mj-text align="center" text-transform="uppercase"><p style="font-size: 18px; font-weight: 400;">Sunglasses</p></mj-text>
+                            <mj-button href="https://www.example.com/" align="center" border-radius="0px" background-color="#ffffff" 
+                            color="#333" border="3px solid #333" font-size="20px" padding-top="5px" text-transform="uppercase" font-weight="200" padding-bottom="60px">Shop now</mj-button>
+                        </mj-column>
+                    </mj-section>
+                    <mj-section padding="0" background-color="#FFFADD" border="5px solid #333" border-top="none" border-bottom="none">
+                        <mj-column>
+                            <mj-image width="350px" href="https://www.example.com/" src="https://i.postimg.cc/wTq0XRjC/Shoes-image.jpg" alt="pair of pink heels" />
+                            <mj-text align="center" text-transform="uppercase"><p style="font-size: 18px; font-weight: 400;">Shoes & Sandals</p></mj-text>
+                            <mj-button href="https://www.example.com/" align="center" border-radius="0px" background-color="#ffffff" 
+                            color="#333" border="3px solid #333" font-size="20px" padding-top="5px" text-transform="uppercase" font-weight="200" padding-bottom="60px">Shop now</mj-button>
+                        </mj-column>
+                    </mj-section>
+                    <mj-section padding="0" background-color="#FFFADD" border="5px solid #333" border-top="none">
+                        <mj-column>
+                            <mj-image width="350px" href="https://www.example.com/" src="https://i.postimg.cc/02VZc56b/Women-shirts-image.jpg" alt="shirts on a rack" />
+                            <mj-text align="center" text-transform="uppercase"><p style="font-size: 18px; font-weight: 400;">All Shirts</p></mj-text>
+                            <mj-button href="https://www.example.com/" align="center" border-radius="0px" background-color="#ffffff" 
+                            color="#333" border="3px solid #333" font-size="20px" padding-top="5px" text-transform="uppercase" font-weight="200" padding-bottom="30px">Shop now</mj-button>
+                            <mj-text align="center" text-transform="uppercase" font-family="Noto Sans, sans serif"><h2 style="font-size: 26px; margin-bottom: 60px; font-weight: 500;">And More!</h2></mj-text>
+                        </mj-column>
+                    </mj-section>

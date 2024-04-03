@@ -1,0 +1,70 @@
+<mjml>
+    <mj-head>
+        <mj-style inline="inline">
+        </mj-style>
+        <mj-style>
+        </mj-style>
+        <mj-font name="Noto Sans" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" />
+    </mj-head>
+    <mj-body background-color="#C499F3" >
+        <mj-section padding="10px 0">
+            <mj-column>
+                <mj-image width="200px" src="https://i.postimg.cc/Dfdx4PnQ/Hanger-logo.png" alt="hanger logo" />
+            </mj-column>
+        </mj-section>
+
+        <mj-include path="./components/toplinks.mjml" />
+
+        <mj-raw>
+        <!--Shipping section-->
+        </mj-raw>
+        <mj-section border="5px solid #333" border-top="none" padding="0" background-color="#FFB84C">
+            <mj-column>
+                <mj-text align="center" text-transform="Uppercase" letter-spacing="2px">
+                   <p style="font-weight: 300; font-size: 0.9rem; text-decoration: none; color: #333;">Worldwide Free Shipping on orders over $100*</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-include path="./components/nojokesection.mjml" />        
+
+        <mj-raw>
+        <!--50% Off Section-->
+        </mj-raw>
+            <mj-section border="5px solid #333" border-top="none" padding="0" background-color="#FFFADD">
+                    <mj-column>
+                        <mj-text align="left" text-transform="Uppercase">
+                        <h2 style="font-size: 2.8rem; margin-bottom: 5px;">50% Off</h2>
+                        <h3 style="font-size: 1.3rem; font-style: italic; font-weight: 600; color: #F273E6; margin-top: 5px; margin-bottom: 5px;">Tops & Bottoms</h3>
+                        </mj-text>
+                        <mj-button href="https://www.example.com/" align="left" border-radius="0px" background-color="#ffffff" 
+                        color="#333" border="3px solid #333" font-size="20px" padding-top="5px" text-transform="uppercase" font-weight="200">Shop now</mj-button>
+                        <mj-image width="600px" padding="0" padding-top="30px" href="https://www.example.com/" src="https://i.postimg.cc/6q9LfFtr/Woman-leaning-on-car.png" alt="woman leaning on car" />
+                    </mj-column>
+                </mj-section>
+
+                <mj-include path="./components/banner.mjml" />
+
+                <mj-include path="./components/don'tmissdeal.mjml" />
+
+                <mj-include path="./components/banner.mjml" />
+
+                <mj-include path="./components/don'tmissgallery.mjml" />
+
+                <mj-raw>
+                <!--Your Site-->
+                </mj-raw>
+                <mj-section border="5px solid #333" border-top="none" padding="0" background-color="#C499F3">
+                    <mj-column>
+                        <mj-text align="center" text-transform="Uppercase"><h2 style="font-size: 20px; font-weight: 400; margin: 0;">WWW.YourSite.com</h2></mj-text>
+                    </mj-column>
+                </mj-section>
+
+                <mj-include path="./components/bottomshippingsection.mjml" />
+                
+                <mj-include path="./components/earnrewards.mjml" />
+
+                <mj-include path="./components/footer.mjml" />                
+
+    </mj-body>
+</mjml>

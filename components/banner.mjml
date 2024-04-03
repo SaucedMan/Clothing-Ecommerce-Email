@@ -1,0 +1,15 @@
+<mj-raw>
+        <!--Banner-->
+        </mj-raw>
+            <mj-section border="5px solid #333" border-top="none" padding="0px" background-color="#FFB84C">
+                <mj-column>
+                    <mj-text align="center" text-transform="uppercase" padding="10px 10px" font-size="12px" font-weight="300">
+                        <span>✶ Only Online ✶</span>
+                        <span> Only Online ✶</span>
+                        <span> Only Online ✶</span>
+                        <span> Only Online ✶</span>
+                        <span> Only Online ✶</span>
+                        <span> Only Online ✶</span>
+                    </mj-text>
+                </mj-column>
+            </mj-section>

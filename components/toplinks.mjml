@@ -1,0 +1,14 @@
+<mj-raw>
+<!--Top Links-->
+</mj-raw>
+<mj-section border="5px solid #333" padding="10px 0" background-color="#FF7ED4">
+            <mj-column>
+                <mj-text align="center">
+                   <a href="https://www.example.com/" style="font-weight: 400; font-size: 1.7rem; text-decoration: none; color: #333;">Women |</a>
+                   <a href="https://www.example.com/" style="font-weight: 400; font-size: 1.7rem; padding-left: 10px; text-decoration: none; color: #333;">Men |</a>
+                   <a href="https://www.example.com/" style="font-weight: 400; font-size: 1.7rem; padding-left: 10px; text-decoration: none; color: #333;">Bags |</a>
+                   <a href="https://www.example.com/" style="font-weight: 400; font-size: 1.7rem; padding-left: 10px; text-decoration: none; color: #333;">Shoes |</a>
+                   <a href="https://www.example.com/" style="font-weight: 400; font-size: 1.7rem; padding-left: 10px; text-decoration: none; color: #333;">Music</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
